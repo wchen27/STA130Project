@@ -1,1 +1,2 @@
-STA130 Final Project
+# STA130 Project
+
